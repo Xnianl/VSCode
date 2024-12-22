@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "writing_cum.h": "c",
+        "xstring": "c",
+        "cum_us.h": "c",
+        "signal.h": "c"
+    }
+}

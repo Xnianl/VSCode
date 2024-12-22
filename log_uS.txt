@@ -1,0 +1,4 @@
+Tot number cumulatives logs saved: 89
+Current number cumulative log: 88
+Nor first byte page	Working Time [h]	Cycle Total	Discharged Ah	Regen Ah	Discharged Wh	Regen Wh	Charged Ah	Charged Wh	Number of Deep Disch	Remain SOH	Standby Ah	Standby Wh	Discharged Ah in Charge	Discharged Wh in Charge	Service Temperature [°C]	S.T. Discharge Time [h]	S.T. Discharge Avg [°C]	S.T. Recharge Time [h]	S.T. Recharge Avg [°C]	S.T. Standby Time [h]	S.T. Standby Avg [°C]	Last Charge Time/Date	Last Complete Charge Time/Date	Num of Complete Charges	Remain SOH (raw)	Disch A*s for SOH Recover	Recovered SOH (raw)	Build Number
+1	7	5	6	8	9	10	11	12	7	2	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	27	28	
